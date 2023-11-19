@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <stdbool.h>
+/*
 #include <cudd.h>
 #include <cudd/util.h>
 #include <cudd/st.h>
-#include <stdbool.h>
-
+*/
 
 /* Computer the power of 2 based on the number of nodes marginalized between
 the parent and child node. If the child node is a terminal 1, we have a total

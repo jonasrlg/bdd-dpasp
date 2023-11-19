@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <stdbool.h>
+/*
 #include <cudd.h>
 #include <cudd/util.h>
 #include <cudd/st.h>
-#include <stdbool.h>
+*/
 
 #ifndef _COUNT_BDD   /* Include guard */
 #define _COUNT_BDD

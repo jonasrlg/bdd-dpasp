@@ -5,10 +5,12 @@
 #include <time.h>
 #include <math.h>
 #include <stdlib.h>
+#include <stdbool.h>
+/*
 #include <cudd.h>
 #include <cudd/util.h>
 #include <cudd/st.h>
-#include <stdbool.h>
+*/
 #include "count_bdd.h"
 
 /**
